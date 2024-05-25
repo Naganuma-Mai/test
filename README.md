@@ -7,7 +7,7 @@
 - 例) Laravel 8.x(言語やフレームワーク、バージョンなどが記載されていると良い)
 
 ## ER図
-![er](https://github.com/Naganuma-Mai/test/assets/154653570/0c07d564-3808-4c34-9cbf-16841ce29223)
+![er](https://github.com/Naganuma-Mai/test/assets/154653570/b1adddef-2890-45d0-80ef-969dc09684c0)
 
 ## URL
 - 例) 開発環境：http://localhost/
